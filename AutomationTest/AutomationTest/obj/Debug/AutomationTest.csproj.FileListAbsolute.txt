@@ -33,6 +33,5 @@ C:\Users\kevin.sejin\Documents\GitHub\CNNNewSourceTest\AutomationTest\Automation
 C:\Users\kevin.sejin\Documents\GitHub\CNNNewSourceTest\AutomationTest\AutomationTest\bin\Debug\nunit.framework.xml
 C:\Users\kevin.sejin\Documents\GitHub\CNNNewSourceTest\AutomationTest\AutomationTest\bin\Debug\WebDriver.xml
 C:\Users\kevin.sejin\Documents\GitHub\CNNNewSourceTest\AutomationTest\AutomationTest\bin\Debug\WebDriver.Support.xml
-C:\Users\kevin.sejin\Documents\GitHub\CNNNewSourceTest\AutomationTest\AutomationTest\obj\Debug\AutomationTest.csprojResolveAssemblyReference.cache
 C:\Users\kevin.sejin\Documents\GitHub\CNNNewSourceTest\AutomationTest\AutomationTest\obj\Debug\AutomationTest.dll
 C:\Users\kevin.sejin\Documents\GitHub\CNNNewSourceTest\AutomationTest\AutomationTest\obj\Debug\AutomationTest.pdb
